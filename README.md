@@ -10,7 +10,9 @@
 
 I'm a French full-stack developer with **4+ years of international experience**, having worked in **France** and **New Zealand**, and now actively pursuing opportunities in **Taiwan**.
 
-I run my own development company and work with global clients — including my previous employer in Auckland — delivering performant, scalable, and user-focused software solutions.
+I run my own development company and work with global clients — including my previous employer in Auckland — delivering performant, scalable, and user-focused software solutions.  
+
+You can explore my work and projects on my **[portfolio website](https://www.philemondev.com)**.
 
 I bring a **global mindset**, deep technical skills across **frontend, backend, and mobile**, and a passion for **building impactful digital products**.
 
@@ -68,9 +70,7 @@ I bring a **global mindset**, deep technical skills across **frontend, backend, 
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/philcayla/)
-- 💻 [GitHub](https://github.com/CBiglemon)
-- 🌐 [Portfolio Website](https://your-website.com) *(replace with actual URL)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/philcayla/)  
+- 💻 [GitHub](https://github.com/CBiglemon)  
+- 🌐 [Portfolio Website](https://www.philemondev.com)  
 - 📫 _Currently open to new full-stack opportunities in Taiwan and remote positions globally!_
-
----
