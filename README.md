@@ -1,19 +1,76 @@
-<h1 align="center">Hi 👋, I'm Philemon but you can call me Phil</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+# 👋 Hi, I'm Cayla Philemon
 
-- 🔭 I’m currently working at [Hiventive](https://www.hiventive.com/fr/)
+🚀 **Full-Stack Developer** | 🌍 Based in Bordeaux → Auckland → Taiwan  
+📬 Currently open to **new opportunities in Taiwan** (visa sponsorship welcome!)  
+🎓 Learning Mandarin | 🌐 Remote-ready | 🤝 International team player
 
-- 🌱 I’m currently learning **PHP & Vue JS**
+---
 
-- 📫 How to reach me **caylaphil@gmail.com**
+## 💼 About Me
 
-- ⚡ Fun fact **Beep boop**
+I'm a French full-stack developer with **4+ years of international experience**, having worked in **France** and **New Zealand**, and now actively pursuing opportunities in **Taiwan**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/philcayla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/philcayla/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/philemon_cayla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/philemon_cayla/" height="30" width="40" /></a>
-</p>
+I run my own development company and work with global clients — including my previous employer in Auckland — delivering performant, scalable, and user-focused software solutions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+I bring a **global mindset**, deep technical skills across **frontend, backend, and mobile**, and a passion for **building impactful digital products**.
+
+---
+
+## 🏆 Key Achievements
+
+- 🧠 **Learning Management System (LMS)**  
+  Architected and built a full LMS platform from **PostgreSQL database to mobile app**, tailored for **Pacific educational institutions**.
+
+- 🏭 **Manufacturing Optimization**  
+  Delivered real-time monitoring systems and automation tools for **PCB factory operations** — improving productivity and visibility.
+
+- 🌍 **Remote Leadership**  
+  Successfully managed and delivered cross-functional projects across **time zones** and **cultures**, from solo builds to team coordination.
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend  
+`React` · `Next.js` · `Vue.js` · `Angular` · `TypeScript` · `Storybook`
+
+### Mobile  
+`React Native` · `Flutter` · `iOS` · `Android` · `Redux` · `MobX`
+
+### Backend  
+`Go` · `Node.js` · `PHP Laravel` · `GraphQL` · `gRPC` · `PostgreSQL`
+
+### DevOps & Infrastructure  
+`Docker` · `Terraform` · `CI/CD` · `GitHub Actions` · `AWS` · `Git`
+
+---
+
+## 🌏 Why Taiwan?
+
+- Proven **international adaptability** (France → New Zealand → Taiwan)
+- Currently learning **Mandarin Chinese**
+- Eager to contribute to **Taiwan’s tech ecosystem**
+- Open to **sponsorship opportunities** and **long-term relocation**
+
+---
+
+## 📌 Featured Project
+
+### 🎓 Learning Management System  
+**Full-stack educational platform** (solo-built over 18 months)  
+- Backend: `Go`, `PostgreSQL`, `Docker`, `JWT`  
+- Mobile: `React Native`, `Zustand`, `TypeScript`, `Expo`  
+- Features: Role-based dashboards, clean architecture, performance optimization
+
+🔎 _More coming soon!_
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/philcayla/)
+- 💻 [GitHub](https://github.com/CBiglemon)
+- 🌐 [Portfolio Website](https://your-website.com) *(replace with actual URL)*
+- 📫 _Currently open to new full-stack opportunities in Taiwan and remote positions globally!_
+
+---
